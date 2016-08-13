@@ -1,0 +1,1 @@
+./vwifi.ps1 |OUT-FILE wifi.txt
