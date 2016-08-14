@@ -1,0 +1,5 @@
+{ 
+	"description":"",
+	"kw" : [ "%~dp0", "%cd%" ], 
+	"ref" : "httppath" 
+}
