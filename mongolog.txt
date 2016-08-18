@@ -1,0 +1,107 @@
+2016-08-14T17:37:05.372+0800 I CONTROL  Hotfix KB2731284 or later update is not installed, will zero-out data files
+MongoDB shell version: 3.0.4
+connecting to: 192.168.1.102:27017/test
+dailycommand
+{
+	"_id" : ObjectId("57b038acfb6839ec6073a3af"),
+	"decription" : "mongo connect a remote server db: mongo host:port/db",
+	"kw" : [
+		"mongo",
+		"remote",
+		"connect",
+		"host",
+		"port",
+		"db"
+	],
+	"content" : [
+		"mongo 192.168.1.102:27017/Tb_xy09"
+	]
+}
+helpdict
+{
+	"_id" : ObjectId("57a304f9d646603a0491e2b3"),
+	"kw" : [
+		"%~dp0",
+		"%cd%"
+	],
+	"ref" : "httppath"
+}
+issuedict
+{
+	"_id" : ObjectId("57b037fefb6839ec6073a3ae"),
+	"description" : "unable to set in for loop statement",
+	"kw" : [
+		"for ",
+		"delims",
+		"setlocal",
+		"enabledelayedexpansion",
+		"!var!",
+		"set"
+	],
+	"ref" : [
+		"https://github.com/chsdk/Rename-files-replacing-white-spaces-with-underscore/blob/master/renameFiles.bat",
+		"http://stackoverflow.com/questions/13805187/how-to-set-a-variable-inside-a-loop-for-f"
+	]
+}
+system.indexes
+{
+	"v" : 1,
+	"key" : {
+		"_id" : 1
+	},
+	"name" : "_id_",
+	"ns" : "Tb_xy09.test"
+}
+{
+	"v" : 1,
+	"key" : {
+		"_id" : 1
+	},
+	"name" : "_id_",
+	"ns" : "Tb_xy09.usersna"
+}
+{
+	"v" : 1,
+	"key" : {
+		"_id" : 1
+	},
+	"name" : "_id_",
+	"ns" : "Tb_xy09.helpdict"
+}
+{
+	"v" : 1,
+	"key" : {
+		"_id" : 1
+	},
+	"name" : "_id_",
+	"ns" : "Tb_xy09.issuedict"
+}
+{
+	"v" : 1,
+	"key" : {
+		"_id" : 1
+	},
+	"name" : "_id_",
+	"ns" : "Tb_xy09.dailycommand"
+}
+test
+{
+	"_id" : ObjectId("5594b072caa8d006000a9556"),
+	"age" : "8",
+	"skill" : "python",
+	"name" : "侠侣"
+}
+{ "_id" : 2, "skill" : "python", "age" : "6", "name" : "小黄" }
+{
+	"_id" : ObjectId("5594b089caa8d01e8473cfc2"),
+	"age" : "8",
+	"skill" : "python",
+	"name" : "侠侣"
+}
+usersna
+{
+	"_id" : ObjectId("5708c485caa8d04b54ef4562"),
+	"skill" : "python",
+	"age" : "8",
+	"name" : "侠侣"
+}

@@ -16,15 +16,7 @@ echo main
 set filename=x.py
 for /f "tokens=1 delims=." %%a in (' dir /b /on "%1"') do (
      set filename=%%a
-     echo !filename!
+     echo !filename!x
 )
-
-for %%i in (1,2) do call :loop %%i
-goto :end
-
-:loop
-set b=%1
-echo %b%
-goto :eof
 
 :end
