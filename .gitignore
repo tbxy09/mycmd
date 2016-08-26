@@ -1,1 +1,5 @@
-*.txt~
+/dailycommand.json
+/issuedict.json
+/pyfilesdiff.txt
+/buildliblog.txt
+/mongolog.txt
