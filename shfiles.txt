@@ -1,0 +1,1329 @@
+D:\nodejs\node_modules - 副本\ionic\node_modules\nan\doc\.build.sh
+D:\nodejs\node_modules\ionic\node_modules\nan\doc\.build.sh
+D:\MinGW\share\autotools\ac-wrapper.sh
+Z:\usr\share\doc\acpid\examples\ac.sh
+D:\boost_1_58_0\Boost-Introduction\Boost 简介\源码\src\add_ld_path.sh
+D:\boost_1_58_0\src\Boost-Introduction_v1\add_ld_path.sh
+D:\boost_1_58_0\src\Boost-Introduction_v1\Boost-Introduction\Boost 简介\源码\src\add_ld_path.sh
+D:\搜狗高速下载\Boost-Introduction_v1\Boost-Introduction\Boost 简介\源码\src\add_ld_path.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\lang\add_message.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\lang\add_message_file.sh
+D:\GitHub\dict_uk\out\bin\adjp_impers_check.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\etc\profile.d\aliases.sh
+D:\Git\etc\profile.d\aliases.sh
+Z:\usr\share\alsa-base\alsa-info.sh
+D:\MinGW\share\autotools\am-wrapper.sh
+Z:\usr\bin\amuFormat.sh
+Z:\usr\bin\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\amuFormat.sh
+D:\GitHub\atom\resources\win\apm.sh
+Z:\usr\share\doc\git-core\contrib\thunderbird-patch-inline\appp.sh
+Z:\usr\share\doc\git\contrib\thunderbird-patch-inline\appp.sh
+D:\GitHub\atom\spec\integration\helpers\atom-launcher.sh
+D:\GitHub\atom\atom.sh
+D:\GitHub\atom\resources\win\atom.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\rackspace\authorization.sh
+D:\GitHub\Libevent\autogen.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\drivers\staging\usbip\userspace\autogen.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\usb\usbip\autogen.sh
+Z:\usr\src\linux-headers-3.16.0-30\drivers\staging\usbip\userspace\autogen.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\usb\usbip\autogen.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\Documentation\aoe\autoload.sh
+Z:\usr\src\linux-headers-3.16.0-30\Documentation\aoe\autoload.sh
+Z:\usr\lib\avahi\avahi-daemon-check-dns.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\lib\tar\backup.sh
+D:\Git\usr\lib\tar\backup.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\etc\profile.d\bash_profile.sh
+D:\boost_1_58_0\libs\config\test\link\bc_gen.sh
+D:\boost_1_58_0\libs\regex\build\bc_gen.sh
+C:\Users\Administrator.SKY-20150108YSF\.cordova\lib\npm_cache\cordova-wp8\3.8.0\package\node_modules\node-uuid\benchmark\bench.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\node-uuid\1.3.3\package\benchmark\bench.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\IntelliJ IDEA 14.1.3\plugins\spy-js\server\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-less\node_modules\less\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\node-sass\node_modules\pangyp\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\node-sass\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-less\node_modules\less\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-nodemon\node_modules\nodemon\node_modules\update-notifier\node_modules\configstore\node_modules\uuid\benchmark\bench.sh
+D:\material\webstormProj\amazeui\node_modules\less-middleware\node_modules\less\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt-jscs-checker\node_modules\jscs\node_modules\vow-fs\node_modules\node-uuid\benchmark\bench.sh
+D:\material\webstormProj\xyfm\platforms\wp8\cordova\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\bower-registry-client\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\configstore\node_modules\uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\xcode\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\update-notifier\node_modules\configstore\node_modules\uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\node-sass\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\jsdom\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\connect-phonegap\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\xcode\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\bower\node_modules\bower-registry-client\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\bower\node_modules\configstore\node_modules\uuid\benchmark\bench.sh
+D:\nodejs\node_modules\bower\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\xcode\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\cordova\node_modules\update-notifier\node_modules\configstore\node_modules\uuid\benchmark\bench.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\ionic\node_modules\node-sass\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\ionic\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\ionic\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\jsdom\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\phonegap\node_modules\connect-phonegap\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\xcode\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\bower-registry-client\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\configstore\node_modules\uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\xcode\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\jsdom\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\connect-phonegap\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\xcode\node_modules\node-uuid\benchmark\bench.sh
+D:\WebStorm 10.0.2\plugins\spy-js\server\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+Z:\usr\lib\node_modules\npm\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+Z:\usr\lib\node_modules\request\node_modules\node-uuid\benchmark\bench.sh
+Z:\usr\src\directory-ionic-nodejs\node_modules\node-uuid\benchmark\bench.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\Godeps\_workspace\src\github.com\emicklei\go-restful\bench_test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\benchmark-go.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\benchmark-integration.sh
+D:\搜狗高速下载\apache-ant-1.9.4-src\apache-ant-1.9.4\src\etc\testcases\taskdefs\exec\blabla.sh
+D:\boost_1_58_0\libs\filesystem\example\test\bld.sh
+D:\boost_1_58_0\bootstrap.sh
+D:\boost_1_58_0\tools\build\bootstrap.sh
+D:\GitHub\parse\parse-server\bootstrap.sh
+D:\搜狗高速下载\apache-ant-1.9.4-src\apache-ant-1.9.4\bootstrap.sh
+Z:\usr\share\brltty\initramfs\brltty.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\build-cross.sh
+D:\boost_1_58_0\tools\build\scripts\build-docs.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\build-go.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\update-demo\build-images.sh
+D:\GitHub\torch\extra\lua-cjson\build-packages.sh
+Z:\usr\src\torch\extra\lua-cjson\build-packages.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\k8petstore\build-push-containers.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\e2e-internal\build-release.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\build-ui.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\ubuntu\build.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\guestbook-go\_src\script\build.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\jenkins\build.sh
+D:\boost_1_58_0\libs\gil\doc\build.sh
+D:\boost_1_58_0\tools\build\src\engine\build.sh
+D:\GitHub\parse\ParseAppLinksAnalytics\ParseAppLinksAnalytics-iOS\Scripts\build.sh
+D:\GitHub\vnpy\vn.ctp\build.sh
+D:\GitHub\vnpy\vn.lts\build.sh
+D:\GitHub\vnpy_backup2\vn.ctp\build.sh
+D:\IntelliJ IDEA 14.1.3\plugins\spy-js\server\node_modules\socket.io\node_modules\socket.io-client\lib\vendor\web-socket-js\flash-src\build.sh
+D:\material\webstormProj\amazeui\node_modules\browserify-shim\node_modules\exposify\example\build.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\example\multiple_bundles\build.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\example\source_maps\build.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\constants-browserify\build.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\timers-browserify\example\enroll\build.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\multiple_bundles\build.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\source_maps\build.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\constants-browserify\build.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\timers-browserify\example\enroll\build.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\browserify\example\multiple_bundles\build.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\browserify\example\source_maps\build.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\constants-browserify\build.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\timers-browserify\example\enroll\build.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\multiple_bundles\build.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\source_maps\build.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\constants-browserify\build.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\timers-browserify\example\enroll\build.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-registry-mapper\node_modules\tape\example\static\build.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\multiple_bundles\build.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\source_maps\build.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\constants-browserify\build.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\timers-browserify\example\enroll\build.sh
+D:\nodejs\node_modules\ionic\node_modules\browserify\example\multiple_bundles\build.sh
+D:\nodejs\node_modules\ionic\node_modules\browserify\example\source_maps\build.sh
+D:\nodejs\node_modules\ionic\node_modules\constants-browserify\build.sh
+D:\nodejs\node_modules\ionic\node_modules\timers-browserify\example\enroll\build.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\multiple_bundles\build.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\source_maps\build.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\constants-browserify\build.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\timers-browserify\example\enroll\build.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-registry-mapper\node_modules\tape\example\static\build.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\multiple_bundles\build.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\source_maps\build.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\constants-browserify\build.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\timers-browserify\example\enroll\build.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-registry-mapper\node_modules\tape\example\static\build.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\multiple_bundles\build.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\example\source_maps\build.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\constants-browserify\build.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\timers-browserify\example\enroll\build.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-registry-mapper\node_modules\tape\example\static\build.sh
+D:\WebStorm 10.0.2\plugins\spy-js\server\node_modules\socket.io\node_modules\socket.io-client\lib\vendor\web-socket-js\flash-src\build.sh
+D:\搜狗高速下载\apache-ant-1.9.4-src\apache-ant-1.9.4\build.sh
+D:\boost_1_58_0\libs\graph\doc\BUILD_DOCS.sh
+D:\GitHub\parse\parse-embedded-sdks\docs\build_docs.sh
+D:\GitHub\parse\Parse-SDK-JS\build_releases.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\ssl\misc\CA.sh
+D:\Git\usr\ssl\misc\CA.sh
+Z:\usr\lib\ssl\misc\CA.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\rt-tester\check-all.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\rt-tester\check-all.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\kconfig\lxdialog\check-lxdialog.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\kconfig\lxdialog\check-lxdialog.sh
+Z:\usr\share\doc\ifupdown\examples\check-mac-address.sh
+Z:\usr\share\gtksourceview-2.0\language-specs\check.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\kconfig\check.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\kconfig\check.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\lang\check_lang.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\checkkconfigsymbols.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\checkkconfigsymbols.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\checksyscalls.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\checksyscalls.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\x86\um\vdso\checkundef.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\x86\vdso\checkundef.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\x86\um\vdso\checkundef.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\x86\vdso\checkundef.sh
+Z:\usr\local\go\misc\ios\clangwrap.sh
+Z:\usr\src\github\go\misc\ios\clangwrap.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\scripts\clean-old.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\scripts\clean-old.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\clean-old.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\scripts\clean-old.sh
+D:\nodejs\node_modules - 副本\npm\scripts\clean-old.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\clean-old.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\clean-old.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\clean-old.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\scripts\clean-old.sh
+D:\nodejs\node_modules\npm\scripts\clean-old.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\clean-old.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\clean-old.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\clean-old.sh
+Z:\usr\lib\node_modules\npm\scripts\clean-old.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\guestbook-go\_src\script\clean.sh
+D:\GitHub\torch\clean.sh
+Z:\usr\src\torch\clean.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\openshift-origin\cleanup.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\drivers\staging\usbip\userspace\cleanup.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\usb\usbip\cleanup.sh
+Z:\usr\src\linux-headers-3.16.0-30\drivers\staging\usbip\userspace\cleanup.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\usb\usbip\cleanup.sh
+D:\搜狗高速下载\cmake-3.5.2-Linux-x86_64.sh
+D:\搜狗高速下载\cmake-3.6.0-rc1-Linux-x86_64.sh
+D:\GitHub\cmder\vendor\cmder.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\common.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\common.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\aws\templates\common.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\azure\templates\common.sh
+D:\boost_1_58_0\libs\config\test\link\common.sh
+D:\boost_1_58_0\libs\regex\build\common.sh
+Z:\usr\share\os-prober\common.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_all.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_assoc_ptr_container.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_conventions.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_examples.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_faq.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_guidelines.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_headers.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_indirect_fun.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_array.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_container.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_deque.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_inserter.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_list.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_map.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_map_adapter.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_multimap.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_multimap_adapter.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_multiset.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_multiset_adapter.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_sequence_adapter.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_set.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_set_adapter.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_ptr_vector.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_reference.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_rever_ptr_container.sh
+D:\boost_1_58_0\libs\ptr_container\doc\comp_tutorial.sh
+D:\PyCharm 4.5\helpers\pydev\pydevd_attach_to_process\linux\compile_so.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\atom\app-1.8.0\lib\net45\resources\app\apm\node_modules\npm\lib\utils\completion.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\lib\utils\completion.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\lib\utils\completion.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\lib\utils\completion.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\lib\utils\completion.sh
+D:\nodejs\node_modules - 副本\npm\lib\utils\completion.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\lib\utils\completion.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\lib\utils\completion.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\lib\utils\completion.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\lib\utils\completion.sh
+D:\nodejs\node_modules\npm\lib\utils\completion.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\lib\utils\completion.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\lib\utils\completion.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\lib\utils\completion.sh
+Z:\usr\lib\node_modules\npm\lib\utils\completion.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gke\config-common.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vsphere\config-common.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\aws\config-default.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\azure\config-default.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gce\config-default.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gke\config-default.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\libvirt-coreos\config-default.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\rackspace\config-default.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\ubuntu\config-default.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vagrant\config-default.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vsphere\config-default.sh
+Z:\usr\lib\lightdm\config-error-dialog.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\aws\config-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gce\config-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gke\config-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\libvirt-coreos\config-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\ubuntu\config-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vagrant\config-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vsphere\config-test.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\config2frag.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\config2frag.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\Documentation\s390\config3270.sh
+Z:\usr\src\linux-headers-3.16.0-30\Documentation\s390\config3270.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\contrib\logging\fluentd-sidecar-es\config_generator.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\contrib\logging\fluentd-sidecar-gcp\config_generator.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\configcheck.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\configcheck.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\configinit.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\configinit.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\configNR_CPUS.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\configNR_CPUS.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gce\configure-vm.sh
+D:\boost_1_58_0\tools\build\src\engine\boehm_gc\configure_atomic_ops.sh
+Z:\usr\share\debconf\confmodule.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\conformance-test.sh
+Z:\usr\share\doc\git-core\contrib\convert-grafts-to-replace-refs.sh
+Z:\usr\share\doc\git\contrib\convert-grafts-to-replace-refs.sh
+D:\GitHub\dict_uk\bin\convert_from_spell_uk.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\copy-output.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\Godeps\_workspace\src\github.com\emicklei\go-restful\coverage.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\power\cpupower\bench\cpufreq-bench_plot.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\power\cpupower\bench\cpufreq-bench_plot.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\power\cpupower\bench\cpufreq-bench_script.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\power\cpupower\bench\cpufreq-bench_script.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\cpus2use.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\cpus2use.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\aws\templates\create-dynamic-salt-files.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\azure\templates\create-dynamic-salt-files.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vsphere\templates\create-dynamic-salt-files.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt-contrib-jshint\node_modules\jshint\node_modules\exit\test\fixtures\create-files.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt-jscs-checker\node_modules\jscs\node_modules\exit\test\fixtures\create-files.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt\node_modules\exit\test\fixtures\create-files.sh
+D:\nodejs\node_modules - 副本\jshint\node_modules\exit\test\fixtures\create-files.sh
+D:\nodejs\node_modules\jshint\node_modules\exit\test\fixtures\create-files.sh
+D:\nodejsbakcup - 副本\node_modules\jshint\node_modules\exit\test\fixtures\create-files.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\scripts\create-release.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\openshift-origin\create.sh
+Z:\usr\share\doc\cron\examples\cron-tasks-review.sh
+D:\boost_1_58_0\libs\locale\tools\cross-compile-gettext.sh
+Z:\usr\lib\x86_64-linux-gnu\hud\dbus-activation-hack.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\decode_stacktrace.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\decode_stacktrace.sh
+Z:\usr\share\doc\acpid\examples\default.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\ubuntu\deployAddons.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\depmod.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\depmod.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hooks\description.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\dev-build-and-push.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\dev-build-and-up.sh
+D:\GitHub\haloword\dist.sh
+Z:\usr\share\doc\netcat-openbsd\examples\dist.sh
+Z:\usr\local\bin\dl.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\scripts\doc-build.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\scripts\doc-build.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\doc-build.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\scripts\doc-build.sh
+D:\nodejs\node_modules - 副本\npm\scripts\doc-build.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\doc-build.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\doc-build.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\doc-build.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\scripts\doc-build.sh
+D:\nodejs\node_modules\npm\scripts\doc-build.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\doc-build.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\doc-build.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\doc-build.sh
+Z:\usr\lib\node_modules\npm\scripts\doc-build.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\node-gyp\test\docker.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\node_modules\node-gyp\test\docker.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\node-gyp\test\docker.sh
+D:\nodejs\node_modules - 副本\npm\node_modules\node-gyp\test\docker.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\node-gyp\test\docker.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\node_modules\node-gyp\test\docker.sh
+D:\nodejs\node_modules\ionic\node_modules\node-gyp\test\docker.sh
+D:\nodejs\node_modules\npm\node_modules\node-gyp\test\docker.sh
+D:\nodejsbakcup - 副本\node_modules\npm\node_modules\node-gyp\test\docker.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\aws\templates\download-release.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\azure\templates\download-release.sh
+D:\GitHub\vnpy\vn.datayes\download.sh
+D:\GitHub\vnpy_backup2\vn.datayes\download.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\e2e-internal\e2e-cluster-size.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\e2e-internal\e2e-down.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\e2e-from-release.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\e2e-internal\e2e-push.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\e2e-internal\e2e-status.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\e2e-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\e2e-internal\e2e-up.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\jenkins\e2e.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\efivarfs\efivarfs.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\efivarfs\efivarfs.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\m8\entrago.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\d8\node_modules\m8\entrago.sh
+D:\nodejs\node_modules\ionic\node_modules\m8\entrago.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\d8\node_modules\m8\entrago.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\d8\node_modules\m8\entrago.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\d8\node_modules\m8\entrago.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\etc\profile.d\env.sh
+D:\Git\etc\profile.d\env.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\lib\etcd.sh
+D:\IntelliJ IDEA 14.1.3\plugins\spy-js\server\node_modules\archiver\node_modules\file-utils\tests\fixtures\exec.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt\node_modules\grunt-legacy-util\test\fixtures\exec.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\file-utils\tests\fixtures\exec.sh
+D:\nodejs\node_modules\ionic\node_modules\file-utils\tests\fixtures\exec.sh
+D:\WebStorm 10.0.2\plugins\spy-js\server\node_modules\archiver\node_modules\file-utils\tests\fixtures\exec.sh
+D:\GitHub\dict_uk\bin\expand_for_corp.sh
+D:\GitHub\dict_uk\bin\expand_for_rules.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\fault-injection\failcmd.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\fault-injection\failcmd.sh
+Z:\usr\lib\rpm\find-debuginfo.sh
+Z:\usr\lib\rpm\find-lang.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\scripts\find_unused_messages.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\bin\findssl.sh
+D:\Git\usr\bin\findssl.sh
+Z:\usr\lib\firefox\firefox.sh
+D:\MinGW\libexec\gcc\mingw32\4.8.1\install-tools\fixinc.sh
+D:\MinGW\mingw32\libexec\gcc\mingw32\4.8.1\install-tools\fixinc.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\aws\templates\format-disks.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\functions.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\functions.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\gcc-goto.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\gcc-goto.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\gcc-version.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\gcc-version.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\gcc-x86_32-has-stack-protector.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\gcc-x86_32-has-stack-protector.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\gcc-x86_64-has-stack-protector.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\gcc-x86_64-has-stack-protector.sh
+D:\boost_1_58_0\libs\regex\build\gcc_gen.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\rethinkdb\gen-pod.sh
+D:\GitHub\dict_uk\bin\gen_aff_group_list.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\gen_initramfs_list.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\gen_initramfs_list.sh
+D:\GitHub\dict_uk\bin\gen_rev_verb_aff.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\arm64\kernel\vdso\gen_vdso_offsets.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\arm64\kernel\vdso\gen_vdso_offsets.sh
+D:\material\webstormProj\jquery-master\node_modules\gzip-js\node_modules\crc32\test\genCheckValues.sh
+D:\boost_1_58_0\libs\locale\doc\gendoc.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\perf\util\generate-cmdlist.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\perf\util\generate-cmdlist.sh
+D:\boost_1_58_0\libs\math\doc\equations\generate.sh
+D:\boost_1_58_0\libs\math\doc\graphs\generate.sh
+D:\boost_1_58_0\libs\math\test\compile_test\generate.sh
+D:\boost_1_58_0\libs\multiprecision\doc\generate.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\del\node_modules\globby\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\del\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\fs-extra\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\node-sass\node_modules\pangyp\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\node-sass\node_modules\sass-graph\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-less\node_modules\accord\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-load-plugins\node_modules\findup-sync\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-load-plugins\node_modules\multimatch\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\gulp\node_modules\liftoff\node_modules\findup-sync\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\amazeui\node_modules\gulp\node_modules\vinyl-fs\node_modules\glob-stream\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt-jscs-checker\node_modules\jscs\node_modules\vow-fs\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt-npmcopy\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\fstream-ignore\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\connect-phonegap\node_modules\archiver\node_modules\file-utils\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\connect-phonegap\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\init-package-json\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\prompt\node_modules\utile\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules\bower\node_modules\fstream-ignore\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules\bower\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules\phonegap\node_modules\connect-phonegap\node_modules\archiver\node_modules\file-utils\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules\phonegap\node_modules\connect-phonegap\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\init-package-json\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejs\node_modules\phonegap\node_modules\prompt\node_modules\utile\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\fstream-ignore\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\init-package-json\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\connect-phonegap\node_modules\archiver\node_modules\file-utils\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\connect-phonegap\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\init-package-json\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\prompt\node_modules\utile\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\test\generate.sh
+D:\boost_1_58_0\libs\locale\test\generate_catalogs.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\libraries\transformations\generator.sh
+D:\boost_1_58_0\libs\regex\build\generic_gen.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\get-kube.sh
+Z:\usr\share\doc\ifupdown\examples\get-mac-address.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\mingw32\bin\gettext.sh
+D:\Git\mingw64\bin\gettext.sh
+D:\MinGW\bin\gettext.sh
+Z:\usr\bin\gettext.sh
+Z:\usr\bin\X11\gettext.sh
+Z:\usr\bin\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+Z:\usr\bin\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\X11\gettext.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\ginkgo-e2e.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-checkout.sh
+Z:\usr\share\doc\git\contrib\examples\git-checkout.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-clean.sh
+Z:\usr\share\doc\git\contrib\examples\git-clean.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-clone.sh
+Z:\usr\share\doc\git\contrib\examples\git-clone.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-commit.sh
+Z:\usr\share\doc\git\contrib\examples\git-commit.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-fetch.sh
+Z:\usr\share\doc\git\contrib\examples\git-fetch.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-gc.sh
+Z:\usr\share\doc\git\contrib\examples\git-gc.sh
+Z:\usr\share\doc\git-core\contrib\fast-import\git-import.sh
+Z:\usr\share\doc\git\contrib\fast-import\git-import.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-log.sh
+Z:\usr\share\doc\git\contrib\examples\git-log.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-ls-remote.sh
+Z:\usr\share\doc\git\contrib\examples\git-ls-remote.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-merge-ours.sh
+Z:\usr\share\doc\git\contrib\examples\git-merge-ours.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-merge.sh
+Z:\usr\share\doc\git\contrib\examples\git-merge.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-notes.sh
+Z:\usr\share\doc\git\contrib\examples\git-notes.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\etc\profile.d\git-prompt.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\mingw32\share\git\completion\git-prompt.sh
+D:\Git\etc\profile.d\git-prompt.sh
+D:\Git\mingw64\share\git\completion\git-prompt.sh
+D:\GitHub\cmder\vendor\git-prompt.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-repack.sh
+Z:\usr\share\doc\git\contrib\examples\git-repack.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-reset.sh
+Z:\usr\share\doc\git\contrib\examples\git-reset.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-resolve.sh
+Z:\usr\share\doc\git\contrib\examples\git-resolve.sh
+Z:\usr\share\doc\git-core\contrib\git-resurrect.sh
+Z:\usr\share\doc\git\contrib\git-resurrect.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-revert.sh
+Z:\usr\share\doc\git\contrib\examples\git-revert.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\etc\profile.d\git-sdk.sh
+Z:\usr\share\doc\git-core\contrib\subtree\git-subtree.sh
+Z:\usr\share\doc\git\contrib\subtree\git-subtree.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-tag.sh
+Z:\usr\share\doc\git\contrib\examples\git-tag.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-verify-tag.sh
+Z:\usr\share\doc\git\contrib\examples\git-verify-tag.sh
+Z:\usr\share\doc\git-core\contrib\examples\git-whatchanged.sh
+Z:\usr\share\doc\git\contrib\examples\git-whatchanged.sh
+D:\GitHub\tbxy09.github.io\mdfiles\gitbashCommandRecord.sh
+D:\GitHub\tbxy09.github.io\mdfiles\gitbashCommandRecord2.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\lib\golang.sh
+D:\boost_1_58_0\libs\graph\doc\grid_graph_export_svg.sh
+Z:\usr\lib\lightdm\guest-session-auto.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\usb\hcd-tests.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\usb\hcd-tests.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\headers.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\headers.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\headers_install.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\headers_install.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gce\coreos\helper.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gce\debian\helper.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vsphere\templates\hostname.sh
+Z:\usr\share\hplip\hplip_clean.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\hv\hv_get_dhcp_info.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\hv\hv_get_dhcp_info.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\hv\hv_get_dns_info.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\hv\hv_get_dns_info.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\hv\hv_set_ifconfig.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\hv\hv_set_ifconfig.sh
+Z:\usr\lib\NetworkManager\ifblacklist_migrate.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\lib\init.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\nfsd\inject_fault.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\nfsd\inject_fault.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\travis\install-etcd.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vsphere\templates\install-release.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\travis\install-std-race.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\scripts\install.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\saltbase\install.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\Godeps\_workspace\src\github.com\emicklei\go-restful\install.sh
+D:\boost_1_58_0\tools\quickbook\extra\katepart\install.sh
+D:\GitHub\parse\ParseStore\Install\install.sh
+D:\GitHub\RTL8188C_8192C_USB_linux_v4.0.2_9000.20130911\install.sh
+D:\GitHub\RTL8188C_8192C_USB_linux_v4.0.2_9000.20130911\WiFi_Direct_User_Interface\install.sh
+D:\GitHub\torch\install.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\scripts\install.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\install.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\scripts\install.sh
+D:\nodejs\node_modules - 副本\npm\scripts\install.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\install.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\install.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\install.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\scripts\install.sh
+D:\nodejs\node_modules\npm\scripts\install.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\install.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\install.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\install.sh
+D:\Python2.7.9\dowload - 副本\psutil-4.2.0\.ci\travis\install.sh
+D:\Python2.7.9\dowload\psutil-4.2.0\.ci\travis\install.sh
+Z:\usr\lib\node_modules\npm\scripts\install.sh
+Z:\usr\share\doc\toshset\toshiba-acpi\2.6.26\install.sh
+Z:\usr\share\doc\toshset\toshiba-acpi\2.6.28\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\arm64\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\arm\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\blackfin\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\ia64\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\m32r\boot\compressed\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\m68k\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\mn10300\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\parisc\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\powerpc\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\s390\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\sh\boot\compressed\install.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\x86\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\arm64\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\arm\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\blackfin\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\ia64\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\m32r\boot\compressed\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\m68k\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\mn10300\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\parisc\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\powerpc\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\s390\boot\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\sh\boot\compressed\install.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\x86\boot\install.sh
+Z:\usr\src\luadist\install.sh
+Z:\usr\src\torch\install.sh
+D:\GitHub\mbed-master\mbed-master\travis\install_dependencies.sh
+D:\mbed-master\travis\install_dependencies.sh
+D:\GitHub\torch\extra\luaffifb\.travis\install_lua.sh
+Z:\usr\src\torch\extra\luaffifb\.travis\install_lua.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\selinux\install_policy.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\selinux\install_policy.sh
+Z:\usr\lib\file-roller\file-roller\isoinfo.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\mingw32\lib\itcl4.0.3\itclConfig.sh
+D:\Git\mingw64\lib\itcl4.0.3\itclConfig.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt-jsonlint\node_modules\jsonlint\node_modules\JSV\jsdoc-toolkit\jsrun.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\k8petstore\k8petstore.sh
+D:\GitHub\parse\flashback\record\test\killRS.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\saltbase\salt\kube-addons\kube-addons.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\kube-down.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\kube-dump.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\kube-env.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\saltbase\salt\kube-master-addons\kube-master-addons.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\kube-push.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\kube-up.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\rackspace\kube-up.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\kube-util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\kubectl.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\kvm-build.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\kvm-build.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\kvm-recheck-lock.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\kvm-recheck-lock.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\kvm-recheck-rcu.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\kvm-recheck-rcu.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\kvm-recheck.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\kvm-recheck.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\kvm-test-1-run.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\kvm-test-1-run.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\kvm.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\kvm.sh
+Z:\usr\share\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+Z:\usr\share\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\recovery-mode\l10n.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\scripts\lang-cleanup.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\etc\profile.d\lang.sh
+D:\Git\etc\profile.d\lang.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\ld-version.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\ld-version.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\vim\vim74\macros\less.sh
+D:\Git\usr\share\vim\vim74\macros\less.sh
+D:\MinGW\msys\1.0\share\vim\vim73\macros\less.sh
+D:\Vim\vim74\macros\less.sh
+Z:\usr\share\vim\vim74\macros\less.sh
+Z:\usr\share\gnome\shutdown\libcanberra-logout-sound.sh
+Z:\usr\lib\rpm\libtooldeps.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\link-vmlinux.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\link-vmlinux.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\local-up-cluster.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\lib\logging.sh
+D:\boost_1_58_0\tools\build\src\engine\boehm_gc\ltmain.sh
+D:\MinGW\share\libtool\config\ltmain.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\make-build-image.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\saltbase\salt\generate-cert\make-ca-cert.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\saltbase\salt\generate-cert\make-cert.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\make-clean.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\make-release-notes.sh
+Z:\usr\share\doc\libsane\plustek\MakeModule.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\mark-new-version.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\mark-stable-release.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\docs\man\md2man-all.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\kconfig\merge_config.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\kconfig\merge_config.sh
+Z:\usr\src\numpy-1.11.0\doc\f2py\f2python9-final\mk_html.sh
+Z:\usr\src\numpy-1.11.0\doc\f2py\f2python9-final\mk_pdf.sh
+Z:\usr\src\numpy-1.11.0\doc\f2py\f2python9-final\mk_ps.sh
+Z:\usr\local\go\src\syscall\mkall.sh
+Z:\usr\src\github\go\src\syscall\mkall.sh
+Z:\usr\local\go\src\cmd\go\mkalldocs.sh
+Z:\usr\src\github\go\src\cmd\go\mkalldocs.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\x86\kernel\cpu\mkcapflags.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\x86\kernel\cpu\mkcapflags.sh
+Z:\usr\local\go\src\syscall\mkerrors.sh
+Z:\usr\src\github\go\src\syscall\mkerrors.sh
+Z:\usr\local\go\src\runtime\mknacl.sh
+Z:\usr\src\github\go\src\runtime\mknacl.sh
+Z:\usr\local\go\src\syscall\mksysnum_plan9.sh
+Z:\usr\src\github\go\src\syscall\mksysnum_plan9.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\mkuboot.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\mkuboot.sh
+D:\GitHub\parse\Anydevice\cloud\data\model_import.sh
+D:\GitHub\parse\InternetCar\cloud\data\model_import.sh
+Z:\usr\lib\grub\i386-pc\modinfo.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\saltbase\salt\monit\monit_watcher.sh
+D:\boost_1_58_0\tools\build\scripts\nightly.sh
+Z:\usr\lib\rpm\ocaml-find-provides.sh
+Z:\usr\lib\rpm\ocaml-find-requires.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\cpu-hotplug\on-off-test.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\memory-hotplug\on-off-test.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\cpu-hotplug\on-off-test.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\memory-hotplug\on-off-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\parallel-e2e.sh
+D:\搜狗高速下载\apache-ant-1.9.4-src\apache-ant-1.9.4\src\etc\testcases\taskdefs\exec\parrot.sh
+D:\搜狗高速下载\apache-ant-1.9.4-src\apache-ant-1.9.4\src\tests\antunit\taskdefs\exec\parrot.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\parse-build.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\parse-build.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\parse-console.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\parse-console.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\bin\parse-torture.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\bin\parse-torture.sh
+Z:\usr\share\doc\ifupdown\examples\pcmcia-compat.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\perf\perf-archive.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\perf\perf-archive.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\perf\perf-completion.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\perf\perf-completion.sh
+D:\boost_1_58_0\libs\numeric\odeint\performance\SIMD\perf_roessler.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\etc\profile.d\perlbin.sh
+D:\Git\etc\profile.d\perlbin.sh
+D:\MinGW\msys\1.0\postinstall\pi.sh
+Z:\usr\share\doc\ifupdown\examples\ping-places.sh
+Z:\usr\lib\rpm\pkgconfigdeps.sh
+D:\GitHub\torch\extra\luafilesystem\.travis\platform.sh
+Z:\usr\src\torch\extra\luafilesystem\.travis\platform.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vagrant\pod-ip-test.sh
+D:\boost\pool\detail\pool_construct.sh
+D:\boost_1_58_0\boost\pool\detail\pool_construct.sh
+D:\boost_1_58_0\third_lib\boost\pool\detail\pool_construct.sh
+D:\boost\pool\detail\pool_construct_simple.sh
+D:\boost_1_58_0\boost\pool\detail\pool_construct_simple.sh
+D:\boost_1_58_0\third_lib\boost\pool\detail\pool_construct_simple.sh
+Z:\usr\share\doc\popularity-contest\examples\popcon-process.sh
+Z:\usr\share\doc\python-serial\examples\port_publisher.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\hello-kubernetes\prepare.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\pause\prepare.sh
+D:\GitHub\vnpy\vn.datayes\prepare.sh
+D:\GitHub\vnpy_backup2\vn.datayes\prepare.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\prepublish.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\prepublish.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\aliasify\node_modules\browserify-transform-tools\node_modules\falafel\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules - 副本\jade\node_modules\with\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\aliasify\node_modules\browserify-transform-tools\node_modules\falafel\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\cordova\node_modules\update-notifier\node_modules\latest-version\node_modules\package-json\node_modules\got\node_modules\duplexify\node_modules\readable-stream\node_modules\inline-process-browser\node_modules\falafel\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\cordova\node_modules\update-notifier\node_modules\latest-version\node_modules\package-json\node_modules\got\node_modules\read-all-stream\node_modules\readable-stream\node_modules\inline-process-browser\node_modules\falafel\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\ionic\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\jade\node_modules\with\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\prepublish.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\prepublish.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\prepublish.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\prepublish.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\prepublish.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\prepublish.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\prepublish.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\prepublish.sh
+Z:\usr\lib\node_modules\acorn\bin\prepublish.sh
+Z:\usr\lib\node_modules\superagent\node_modules\acorn\bin\prepublish.sh
+Z:\usr\src\directory-ionic-nodejs\node_modules\falafel\node_modules\acorn\bin\prepublish.sh
+D:\boost_1_58_0\libs\serialization\performance\profile.sh
+D:\GitHub\dict_uk\bin\profile_expand.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\powerpc\kernel\prom_init_check.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\powerpc\kernel\prom_init_check.sh
+D:\boost_1_58_0\libs\proto\doc\propdocs.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vagrant\provision-master.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vagrant\provision-minion.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vagrant\provision-network.sh
+D:\IntelliJ IDEA 14.1.3\plugins\spy-js\server\proxy-nix.sh
+D:\WebStorm 10.0.2\plugins\spy-js\server\proxy-nix.sh
+D:\IntelliJ IDEA 14.1.3\plugins\spy-js\server\proxy-osx.sh
+D:\WebStorm 10.0.2\plugins\spy-js\server\proxy-osx.sh
+D:\GitHub\parse\Parse-SDK-Android\scripts\publish_snapshot.sh
+D:\GitHub\parse\ParseFacebookUtils-Android\scripts\publish_snapshot.sh
+D:\GitHub\parse\ParseTwitterUtils-Android\scripts\publish_snapshot.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\push-ci-build.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\push-devel-build.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\push-official-release.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\guestbook-go\_src\script\push.sh
+D:\GitHub\parse\parse-embedded-sdks\unix\samples\test\push.sh
+Z:\usr\lib\rpm\pythondeps.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\ubuntu\reconfDocker.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\Godeps\_workspace\src\google.golang.org\appengine\internal\regen.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\atom\app-1.8.0\lib\net45\resources\app\apm\node_modules\npm\node_modules\request\release.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\scripts\release.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\request\2.47.0\package\release.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\release.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\guestbook-go\_src\script\release.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\node-sass\node_modules\pangyp\node_modules\request\release.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\node-sass\node_modules\request\release.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-less\node_modules\less\node_modules\request\release.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\bower-registry-client\node_modules\request\release.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\request\release.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\scripts\release.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\request\release.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\release.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\request\release.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\scripts\release.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\request\release.sh
+D:\nodejs\node_modules - 副本\npm\scripts\release.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\release.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\request\release.sh
+D:\nodejs\node_modules\bower\node_modules\bower-registry-client\node_modules\request\release.sh
+D:\nodejs\node_modules\bower\node_modules\request\release.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\release.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\request\release.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\release.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\request\release.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\scripts\release.sh
+D:\nodejs\node_modules\ionic\node_modules\request\release.sh
+D:\nodejs\node_modules\npm\scripts\release.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\release.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\request\release.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\bower-registry-client\node_modules\request\release.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\request\release.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\release.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\request\release.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\release.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\request\release.sh
+D:\Sublime Text 3\Data\Packages\GitGutter\release_messages\src\release.sh
+Z:\usr\lib\node_modules\npm\scripts\release.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\scripts\relocate.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\scripts\relocate.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\relocate.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\scripts\relocate.sh
+D:\nodejs\node_modules - 副本\npm\scripts\relocate.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\relocate.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\relocate.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\relocate.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\scripts\relocate.sh
+D:\nodejs\node_modules\npm\scripts\relocate.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\relocate.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\relocate.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\relocate.sh
+Z:\usr\lib\node_modules\npm\scripts\relocate.sh
+Z:\usr\share\doc\git-core\contrib\remotes2config.sh
+Z:\usr\share\doc\git\contrib\remotes2config.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\scripts\remove_control_m.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\lang\remove_message.sh
+Z:\usr\share\xdiagnose\workloads\repro.sh
+Z:\usr\share\doc\git-core\contrib\rerere-train.sh
+Z:\usr\share\doc\git\contrib\rerere-train.sh
+D:\boost_1_58_0\tools\build\scripts\roll.sh
+D:\GitHub\Libevent\test\rpcgen_wrapper.sh
+Z:\usr\lib\rpm\rpm2cpio.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\run-gendocs.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\aliasify\node_modules\browserify-transform-tools\run-test.sh
+D:\nodejs\node_modules - 副本\socket.io\node_modules\socket.io-adapter\node_modules\socket.io-parser\node_modules\benchmark\test\run-test.sh
+D:\nodejs\node_modules - 副本\socket.io\node_modules\socket.io-parser\node_modules\benchmark\test\run-test.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\aliasify\node_modules\browserify-transform-tools\run-test.sh
+D:\nodejs\node_modules\socket.io\node_modules\socket.io-adapter\node_modules\socket.io-parser\node_modules\benchmark\test\run-test.sh
+D:\nodejs\node_modules\socket.io\node_modules\socket.io-parser\node_modules\benchmark\test\run-test.sh
+D:\nodejsbakcup - 副本\node_modules\socket.io\node_modules\socket.io-adapter\node_modules\socket.io-parser\node_modules\benchmark\test\run-test.sh
+D:\nodejsbakcup - 副本\node_modules\socket.io\node_modules\socket.io-parser\node_modules\benchmark\test\run-test.sh
+Z:\usr\lib\node_modules\socket.io\node_modules\benchmark\test\run-test.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\atom\app-1.8.0\lib\net45\resources\app\apm\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\node-sass\node_modules\pangyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules - 副本\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules\ionic\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+Z:\usr\lib\node_modules\npm\node_modules\node-gyp\gyp\tools\emacs\run-unit-tests.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\node_modules\rimraf\test\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\addons\fluentd-elasticsearch\es-image\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\addons\fluentd-elasticsearch\kibana-image\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\cassandra\image\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\celery-rabbitmq\celery-app-add\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\elasticsearch\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\guestbook\redis-slave\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\k8petstore\redis-slave\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\phabricator\cloudsql-authenticator\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\phabricator\php-phabricator\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\redis\image\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\rethinkdb\image\run.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\insert-module-globals\bench\run.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\node-sass\node_modules\pangyp\node_modules\rimraf\test\run.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt\node_modules\rimraf\test\run.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\bower-registry-client\node_modules\rimraf\test\run.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\bench\run.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\insert-module-globals\bench\run.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\node_modules\rimraf\test\run.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\rimraf\test\run.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\bench\run.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\rimraf\test\run.sh
+D:\nodejs\node_modules\bower\node_modules\bower-registry-client\node_modules\rimraf\test\run.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\bench\run.sh
+D:\nodejs\node_modules\ionic\node_modules\insert-module-globals\bench\run.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\node_modules\rimraf\test\run.sh
+D:\nodejs\node_modules\ionic\node_modules\rimraf\test\run.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\bench\run.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\rimraf\test\run.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\bower-registry-client\node_modules\rimraf\test\run.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\bench\run.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\rimraf\test\run.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\bench\run.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\rimraf\test\run.sh
+D:\Python2.7.9\dowload - 副本\psutil-4.2.0\.ci\travis\run.sh
+D:\Python2.7.9\dowload\psutil-4.2.0\.ci\travis\run.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\celery-rabbitmq\flower\run_flower.sh
+D:\GitHub\parse\Parse-SDK-JS\run_integration.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\contrib\prometheus\run_prometheus.sh
+D:\nodejs\node_modules - 副本\jsdom\node_modules\cssstyle\scripts\run_tests.sh
+D:\nodejs\node_modules\jsdom\node_modules\cssstyle\scripts\run_tests.sh
+D:\nodejsbakcup - 副本\node_modules\jsdom\node_modules\cssstyle\scripts\run_tests.sh
+Z:\usr\src\directory-ionic-nodejs\node_modules\cssstyle\scripts\run_tests.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\lib\lockdep\run_tests.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\lib\lockdep\run_tests.sh
+D:\GitHub\parse\flashback\record\test\runQueries.sh
+D:\boost_1_58_0\libs\spirit\classic\phoenix\test\runtest.sh
+D:\GitHub\torch\extra\lua-cjson\runtests.sh
+D:\material\webstormProj\jquery-master\node_modules\gzip-js\node_modules\crc32\test\runTests.sh
+Z:\usr\src\torch\extra\lua-cjson\runtests.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\aws\templates\salt-master.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\azure\templates\salt-master.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vsphere\templates\salt-master.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\aws\templates\salt-minion.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\azure\templates\salt-minion.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vsphere\templates\salt-minion.sh
+Z:\usr\share\doc\transmission-common\examples\send-email-when-torrent-done.sh
+Z:\usr\share\doc\transmission-gtk\examples\send-email-when-torrent-done.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\e2e-suite\services.sh
+D:\GitHub\PythonPrj\UnderLineTest\sessionlog.sh
+D:\GitHub\torch\extra\luafilesystem\.travis\setenv_lua.sh
+Z:\usr\src\torch\extra\luafilesystem\.travis\setenv_lua.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-scheduler-centos.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-shared-hosting-2.4.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-ubuntu-12-04-redmine-unicorn-web2py-uwsgi-nginx.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-virtualenv-web2py.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-centos7.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-cloudfoundry.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-debian-sid.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-fedora-ami.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-fedora.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-heroku.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-nginx-uwsgi-centos64.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-nginx-uwsgi-on-centos.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-nginx-uwsgi-opensuse.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-nginx-uwsgi-ubuntu.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\setup-web2py-ubuntu.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\node_modules\rimraf\test\setup.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\phabricator\setup.sh
+D:\boost_1_58_0\libs\filesystem\example\test\setup.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\node-sass\node_modules\pangyp\node_modules\rimraf\test\setup.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt\node_modules\rimraf\test\setup.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\bower-registry-client\node_modules\rimraf\test\setup.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\node_modules\rimraf\test\setup.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\rimraf\test\setup.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\rimraf\test\setup.sh
+D:\nodejs\node_modules\bower\node_modules\bower-registry-client\node_modules\rimraf\test\setup.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\node_modules\rimraf\test\setup.sh
+D:\nodejs\node_modules\ionic\node_modules\rimraf\test\setup.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\rimraf\test\setup.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\bower-registry-client\node_modules\rimraf\test\setup.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\rimraf\test\setup.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\node_modules\rimraf\test\setup.sh
+D:\boost_1_58_0\tools\boostbook\setup_boostbook.sh
+D:\GitHub\torch\extra\luafilesystem\.travis\setup_lua.sh
+Z:\usr\src\torch\extra\luafilesystem\.travis\setup_lua.sh
+Z:\usr\share\libreoffice\shell-lib-extensions.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-jsbeautifier\node_modules\js-beautify\js\test\shell-perf-test.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-jsbeautifier\node_modules\js-beautify\js\test\shell-smoke-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\build\shell.sh
+Z:\usr\local\bin\shellproxy.sh
+D:\boost_1_58_0\libs\gil\doc\shorten_file_name.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\lang\sort_lang.sh
+D:\搜狗高速下载\apache-ant-1.9.4-src\apache-ant-1.9.4\src\etc\testcases\taskdefs\exec\spawn.sh
+D:\GitHub\parse\flashback\record\test\spawnRS.sh
+D:\cmake-3.5.2-win32-x86\share\cmake-3.5\Modules\Squish4RunTestCase.sh
+Z:\usr\share\cmake-2.8\Modules\Squish4RunTestCase.sh
+D:\cmake-3.5.2-win32-x86\share\cmake-3.5\Modules\SquishRunTestCase.sh
+Z:\usr\share\cmake-2.8\Modules\SquishRunTestCase.sh
+C:\Users\Administrator.SKY-20150108YSF\.gradle\wrapper\dists\gradle-2.2.1-all\2m8005s69iu8v0oiejfej094b\gradle-2.2.1\samples\customBuildLanguage\src\dist\bin\start.sh
+Z:\usr\lib\libreoffice\ure-link\bin\startup.sh
+Z:\usr\lib\ure\bin\startup.sh
+Z:\usr\share\libreoffice\ure-link\bin\startup.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\Documentation\aoe\status.sh
+Z:\usr\src\linux-headers-3.16.0-30\Documentation\aoe\status.sh
+D:\boost_1_58_0\libs\regex\build\sun_gen.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\x86\syscalls\syscallhdr.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\x86\syscalls\syscallhdr.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\x86\syscalls\syscalltbl.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\x86\syscalls\syscalltbl.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\arch\powerpc\kernel\systbl_chk.sh
+Z:\usr\src\linux-headers-3.16.0-30\arch\powerpc\kernel\systbl_chk.sh
+Z:\usr\share\doc\git-core\contrib\subtree\t\t7900-subtree.sh
+Z:\usr\share\doc\git\contrib\subtree\t\t7900-subtree.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\tags.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\tags.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\mingw32\lib\tclConfig.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\mingw32\lib\tcl8\tclConfig.sh
+D:\Git\mingw64\lib\tclConfig.sh
+D:\Git\mingw64\lib\tcl8\tclConfig.sh
+D:\Python2.7.9\tcl\tclConfig.sh
+D:\Python27(x86)\tcl\tclConfig.sh
+D:\Python3.4.3\tcl\tclConfig.sh
+D:\Python3.4.3\tcl\tclooConfig.sh
+D:\Python3.4.3\tcl\tdbc1.0.0\tdbcConfig.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\phabricator\teardown.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\libraries\transformations\template_generator.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\libraries\transformations\template_generator_mimetype.sh
+D:\nodejs\node_modules - 副本\bower\node_modules\tmp\test-all.sh
+D:\nodejs\node_modules\bower\node_modules\tmp\test-all.sh
+D:\nodejsbakcup - 副本\node_modules\bower\node_modules\tmp\test-all.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\test-cmd.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\test-go.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\test-integration.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\test-network.sh
+D:\GitHub\Libevent\test\test-ratelim.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\test-update-storage-objects.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\atom\app-1.8.0\lib\net45\resources\app\apm\node_modules\asar-require\node_modules\asar\node_modules\walkdir\test.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\test\packages\npm-test-files\test.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\test\packages\npm-test-ignore\test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\k8petstore\dev\test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\examples\k8petstore\web-server\test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\lib\test.sh
+D:\GitHub\Libevent\test\test.sh
+D:\GitHub\torch\test.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\test\packages\npm-test-files\test.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\test\packages\npm-test-ignore\test.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\test\packages\npm-test-files\test.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\test\packages\npm-test-ignore\test.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\packages\npm-test-files\test.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\packages\npm-test-ignore\test.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\test\packages\npm-test-files\test.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\test\packages\npm-test-ignore\test.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\test\packages\npm-test-files\test.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\test\packages\npm-test-ignore\test.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\packages\npm-test-files\test.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\packages\npm-test-ignore\test.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\packages\npm-test-files\test.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\packages\npm-test-ignore\test.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\packages\npm-test-files\test.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\packages\npm-test-ignore\test.sh
+Z:\usr\src\torch\test.sh
+D:\GitHub\torch\extra\luaffifb\test_includes.sh
+Z:\usr\src\torch\extra\luaffifb\test_includes.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-coffee\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-less\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-amd-bundler\node_modules\gulp-mt2amd\node_modules\gulp-sass\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-autoprefixer\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-concat\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-less\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-minify-css\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-size\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-uglify\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp-zip\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\amazeui\node_modules\gulp\node_modules\gulp-util\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\material\webstormProj\jquery-master\node_modules\grunt\node_modules\dateformat\test\test_weekofyear.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\nodejs\node_modules\ionic\node_modules\dateformat\test\weekofyear\test_weekofyear.sh
+D:\GitHub\RFIDIOt\testacg.sh
+D:\GitHub\RFIDIOt\testfrosch-serial.sh
+D:\GitHub\RFIDIOt\testfrosch.sh
+D:\GitHub\torch\exe\luajit-rocks\luarocks\test\testing.sh
+Z:\usr\src\torch\exe\luajit-rocks\luarocks\test\testing.sh
+D:\GitHub\RFIDIOt\testlahf.sh
+Z:\usr\lib\thunderbird\thunderbird.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\mingw32\lib\tkConfig.sh
+D:\Git\mingw64\lib\tkConfig.sh
+D:\boost_1_58_0\tools\build\scripts\to_merge.sh
+D:\wamp\apps\phpmyadmin3.2.0.1\lang\translatecount.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\juju\prereqs\ubuntu-juju.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\Documentation\aoe\udev-install.sh
+Z:\usr\src\linux-headers-3.16.0-30\Documentation\aoe\udev-install.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\npm\scripts\update-authors.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\update-authors.sh
+D:\nodejs\node_modules - 副本\npm\scripts\update-authors.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\scripts\update-authors.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\scripts\update-authors.sh
+D:\nodejs\node_modules\npm\scripts\update-authors.sh
+Z:\usr\lib\node_modules\npm\scripts\update-authors.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\dtc\update-dtc-source.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\dtc\update-dtc-source.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\update-generated-conversions.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\update-storage-objects.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\update-swagger-spec.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Roaming\npm-cache\npm\1.4.28\package\test\update-test.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\ionic-cordova-lib\node_modules\npm\test\update-test.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\npm\test\update-test.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\update-test.sh
+D:\nodejs\node_modules\ionic\node_modules\ionic-cordova-lib\node_modules\npm\test\update-test.sh
+D:\nodejs\node_modules\ionic\node_modules\npm\test\update-test.sh
+D:\nodejs\node_modules\npm\test\update-test.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\update-test.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\update-test.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\npm\test\update-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\Godeps\_workspace\src\github.com\docker\libcontainer\update-vendor.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\update-web2py.sh
+D:\GitHub\torch\update.sh
+D:\GitHub\vnpy\vn.datayes\update.sh
+D:\GitHub\vnpy_backup2\vn.datayes\update.sh
+Z:\usr\src\torch\update.sh
+D:\IntelliJ IDEA 14.1.3\plugins\spy-js\server\node_modules\acorn\bin\update_authors.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\update_authors.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\update_authors.sh
+D:\material\webstormProj\amazeui\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\aliasify\node_modules\browserify-transform-tools\node_modules\falafel\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\syntax-error\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\jade\node_modules\constantinople\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\jade\node_modules\with\node_modules\acorn-globals\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\jade\node_modules\with\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\jsdom\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules - 副本\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\aliasify\node_modules\browserify-transform-tools\node_modules\falafel\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\cordova\node_modules\update-notifier\node_modules\latest-version\node_modules\package-json\node_modules\got\node_modules\duplexify\node_modules\readable-stream\node_modules\inline-process-browser\node_modules\falafel\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\cordova\node_modules\update-notifier\node_modules\latest-version\node_modules\package-json\node_modules\got\node_modules\read-all-stream\node_modules\readable-stream\node_modules\inline-process-browser\node_modules\falafel\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\ionic\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\ionic\node_modules\syntax-error\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\jade\node_modules\constantinople\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\jade\node_modules\with\node_modules\acorn-globals\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\jade\node_modules\with\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\jsdom\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\update_authors.sh
+D:\nodejs\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\update_authors.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\update_authors.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\update_authors.sh
+D:\nodejsbakcup - 副本\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\update_authors.sh
+D:\nodejsbakcup - 副本\node_modules\jsdom\node_modules\acorn\bin\update_authors.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\insert-module-globals\node_modules\lexical-scope\node_modules\astw\node_modules\acorn\bin\update_authors.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\module-deps\node_modules\detective\node_modules\acorn\bin\update_authors.sh
+D:\nodejsbakcup - 副本\node_modules\phonegap\node_modules\cordova\node_modules\cordova-lib\node_modules\cordova-js\node_modules\browserify\node_modules\syntax-error\node_modules\acorn\bin\update_authors.sh
+D:\WebStorm 10.0.2\plugins\spy-js\server\node_modules\acorn\bin\update_authors.sh
+Z:\usr\lib\node_modules\acorn\bin\update_authors.sh
+Z:\usr\lib\node_modules\superagent\node_modules\acorn\bin\update_authors.sh
+Z:\usr\src\directory-ionic-nodejs\node_modules\acorn-globals\node_modules\acorn\bin\update_authors.sh
+Z:\usr\src\directory-ionic-nodejs\node_modules\acorn\bin\update_authors.sh
+Z:\usr\src\directory-ionic-nodejs\node_modules\falafel\node_modules\acorn\bin\update_authors.sh
+D:\GitHub\dict_uk\bin\update_lt_dict.sh
+D:\Sublime Text 3\Data\Backup\20160711130618\backrefs\update_unicode.sh
+D:\Sublime Text 3\Data\Backup\Packages20160802\backrefs\update_unicode.sh
+D:\Sublime Text 3\Data\Packages\backrefs\update_unicode.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\upgrade-e2e-test.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gce\upgrade.sh
+D:\GitHub\parse\parse-embedded-sdks\yun\uploadLinuxPackage.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\aws\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\azure\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gce\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\gke\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\juju\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\libvirt-coreos\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\rackspace\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\ubuntu\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vagrant\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\vsphere\util.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\lib\util.sh
+Z:\usr\share\alsa\utils.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\cluster\validate-cluster.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\Godeps\_workspace\src\github.com\docker\libcontainer\hack\validate.sh
+D:\boost_1_58_0\libs\config\test\link\vc_gen.sh
+D:\boost_1_58_0\libs\regex\build\vc_gen.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\configs\lock\ver_functions.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\configs\rcu\ver_functions.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\configs\rcu\v0.0\ver_functions.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\configs\rcu\v3.3\ver_functions.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\testing\selftests\rcutorture\configs\rcu\v3.5\ver_functions.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\configs\lock\ver_functions.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\configs\rcu\ver_functions.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\configs\rcu\v0.0\ver_functions.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\configs\rcu\v3.3\ver_functions.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\testing\selftests\rcutorture\configs\rcu\v3.5\ver_functions.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\verify-boilerplate.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\verify-description.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\verify-gendocs.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\verify-gofmt.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\tools\power\cpupower\utils\version-gen.sh
+Z:\usr\src\linux-headers-3.16.0-30\tools\power\cpupower\utils\version-gen.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\lib\version.sh
+D:\nodejs\node_modules - 副本\ionic\node_modules\node-sass\src\libsass\version.sh
+D:\nodejs\node_modules\ionic\node_modules\node-sass\src\libsass\version.sh
+C:\Users\Administrator.SKY-20150108YSF\kubernetes\hack\vet-go.sh
+C:\Users\Administrator.SKY-20150108YSF\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\vim\vim74\tools\vimspell.sh
+D:\Git\usr\share\vim\vim74\tools\vimspell.sh
+D:\MinGW\msys\1.0\share\vim\vim73\tools\vimspell.sh
+D:\Vim\vim74\tools\vimspell.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\web2py-lock.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\web2py.archlinux.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\web2py.fedora.sh
+D:\material\PythonPrj\WikiPyt\web2py\scripts\web2py.ubuntu.sh
+Z:\usr\src\linux-headers-3.16.0-30-generic\scripts\xz_wrap.sh
+Z:\usr\src\linux-headers-3.16.0-30\scripts\xz_wrap.sh
+D:\搜狗高速下载\apache-ant-1.9.4-src\apache-ant-1.9.4\src\etc\yearcheck.sh
+D:\GitHub\dict_uk\out\zroll_corp.sh
