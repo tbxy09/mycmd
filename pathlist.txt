@@ -1,1 +1,1 @@
-D:\mycmd;D:\everything;D:\Mongodb(x86)\bin;D:\Mongodb(x86)\;D:\Sublime Text 3;D:\Git\usr\bin
+D:\mycmd;D:\everything;D:\Mongodb(x86)\bin;D:\Mongodb(x86)\;D:\Sublime Text 3;D:\Git\usr\bin;D:\GitHub\_bootstrap\_install\bin;

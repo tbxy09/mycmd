@@ -1,4 +1,4 @@
 @echo off
 setlocal enabledelayedexpansion
 subl -n
-for /f "delims=" %%i in ('escd .sublime-snippet') do subl "%%i"
+for /f "delims=" %%i in ('es .sublime-project') do subl "%%i"
