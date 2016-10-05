@@ -1,6 +1,10 @@
 @echo off
 setlocal enabledelayedexpansion
 
+pushd %cd%
+d:
+cd d:/mycmd
+
 if "%1"=="" (
      goto text
 )else goto main
@@ -33,3 +37,5 @@ goto output
 mongo %remotemongo%/Tb_xy09 helpdict.js > mongolog.txt
 cat mongolog.txt
 :end
+
+popd

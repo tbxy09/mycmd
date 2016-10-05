@@ -15,3 +15,11 @@ rightnow has error msg, just ignore the error msg, still work
 mongo %remotemongo% helpdict.js
 ```
 
+### copyutil
+1. python and window command line interaction:
+    
+2. unicode <-> string
+    [pycodec.py](d:\\mycmd\\pycodec.py)
+
+
+
