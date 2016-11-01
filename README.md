@@ -21,5 +21,18 @@ mongo %remotemongo% helpdict.js
 2. unicode <-> string
     [pycodec.py](d:\\mycmd\\pycodec.py)
 
+### visturalwifi####
+vwifi.ps1
+vwifi_r.ps1 #run vwifi.ps1 and output to file
+1. run in powershell
+2. ./vwifi_r.ps1
+3. change ssid and password
+    - netsh wlan stop hostednetwork
+    - netsh wlan set hostednetwork mode=allow ssid=mywifi key=wodewifi keyUsage=persistent
+    - netsh wlan start hostednetwork
+4.show password
+    netsh wlan show hostednetwork security
+
+
 
 

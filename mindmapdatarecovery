@@ -1,0 +1,185 @@
+{ 
+    "_id" : ObjectId("57eb609cf7b259176b4e1b8d"), 
+    "name" : "contentMap", 
+    "obj" : {
+        "1475043630054" : {
+            "created" : "1475043630054", 
+            "content" : "Alert and update\n\tAlert\n\t\trequirement\n\t\t\tgithub里头新版本的alert\n\t\t\t\t会出现在我vnpy的主页\n\t\t\t\t[webhook](https://github.com/blog/2156-expanded-webhook-events)\n\t\t\t论坛或内容更新alert\n\t\t\t电脑中重要文件的备份alert\n\t\t\t日语word of day audio everyhour\n\t\t\t\t自由访问我的speaker\n\t\t\t\tdownload同时播放word of day\n\t\t\t\t\temail\n\t\t\t\t\twebsite\n\t\t\t\t\tmp3_file\n\t\t实现\n\t\t\ttrigger事件\n\t\t\t\ttimer triger\n\t\t\t\tversion的变动，有更新\n\t\n\n\t", 
+            "updated" : "1475043647058", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1475314167169" : {
+            "created" : "1475314167169", 
+            "content" : "NEAT神经网络进化拓扑\n\t[paper](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)\n\t[blog](http://my.oschina.net/u/1412321/blog/192454)\n\tBizHawk's Lua API\n\t\tthe neat with mario is using a Bizhawk's lua API to envolve its player algorithm\n\t\thow to setup a mario evolve playing enviroment\n\t\t\t[ref](http://www.oneyardline.cc/imag/NeuroEvolutionwithMarI_O.png)", 
+            "updated" : "1475314168865", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476273293202" : {
+            "created" : "1476273293202", 
+            "content" : "RunNodeBackground\n\t专业词语：应用部署\n\n\t\tsupervisord: Go和node的部署\n\t\t\tinstallation:\n\t\t\t\trun as a service\n\t\t\t\tuse supervisorctl manager the subprocess\n\t\t\tconfiguration: two parts\n\t\t\t\t/etc/supervisor/supervisord.conf\t\n\t\t\t\tmake new conf under /etc/supervisor/conf.d\n\t\t\t\t\t必须要手动指定路径，因为supervisord not load /etc/profile\n\t\t\tsupervisorctl:\n\t\t\t\tsupervisorctl start programname\n\t\t\t\tsupervisorctl stop programname\n\t\t\t\tsupervisorctl stop all\n\t\t\t\tsupervisorctl start group 进程分组\n\t\t\t\tsupervisorctl reload\n\t\t\t\tsupervisorctl update\t\t\t\t\n\t\tupstart\n\tnohup not work with node when running in rc.local\n\tsupervisord\n\tnode ./yourprogram.js &\n\t\tsession close,it close\n\t[upstart](http://upstart.ubuntu.com/)\n\tlinux boot sequence\n\t\t.bashrc\n\t\trc.local\n\t\tnohup\n\t\tservice\n\t\t\n\t\n\t\n\t\n\t", 
+            "updated" : "1476511319999", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476279162209" : {
+            "created" : "1476279162209", 
+            "content" : "Newtip:\n\tnpm install supervisor, \n\t\tnode 调试工具\n\t\t无需重启node", 
+            "updated" : "1476279163366", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476280274276" : {
+            "created" : "1476280274276", 
+            "content" : " trusted certificates\n\tfind cerficates list in win sys\n\t\tinternet option\n\t\t\tsearch internet option\n\t\t\tcontent tab 内容选项卡\n\t\t\t证书\n\t\tchrome setting\n\t\t\thttps/ssl 证书管理\n\t\tmmc\n\t\t\t添加单元\n\t\t\tCA单元证书\n\tcheck visited web cerfificate\n\t\tclick icon before the address\n\t\t点击查看详细信息\n\t\t", 
+            "updated" : "1476512750448", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476281187640" : {
+            "created" : "1476281187640", 
+            "content" : "三星手机事件追踪\n\t三星委托国内外权威检测机构\n\t\t-中国泰尔实验室（CTTL）以及\n\t\tExponent实验所再次检测\n\t官方报告还没出来\n\t", 
+            "updated" : "1476281325173", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476358865420" : {
+            "created" : "1476358865420", 
+            "content" : "日语\n\t词库\n\t\t词义\n\t\t词类\n\t\t音 mp3\n\t\t例句 mp3\n\t搜索功能设计\n\t\t词联想\n\t词库的搜集\n\t\t固定格式输入\n\t\t\tmoji URLScheme\n\t\t\t\t否决\n\t\t\t\t返回结果：moji的界面中返回\n\t\t\tJapanesePod101 的mail推送\n\t\t\t\t优点：mail 固定格式\n\t\t\t\t缺点：没有n1，n2的分类\n\t\t\t在ios的模拟器中安装moji\n\t\t\t\t[ref](http://www.jianshu.com/p/cd4c816111db)\n\t\t\t用win pc做热点，wifi截取数据库地址\n\t\t\t\t但是访问数据库必须要权限\n\t\t", 
+            "updated" : "1476359000200", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476368041466" : {
+            "created" : "1476368041466", 
+            "content" : "Data Migration\n\t1", 
+            "updated" : "1476522756792", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476508402399" : {
+            "created" : "1476508402399", 
+            "content" : "build jp words database\n\tconvert files to json\n\t\tdoc to json\n\t\t\t百度文库\n\t\temail to json\n\t\t\tjapanese101pod word of day\n\tmps files\n\t\tget\n\t\tplay\n\t\t\taudio device API\n\t\t\t\tWIN\t\t\t\t\t\n\t\t\t\tUNIX\n\tMonash ftp\n\t\thowtosync\n\t\t\trsync ftp.monash.edu::nihongo/edict edict\n\t\tJMdict\n\t\tkanjdict\n\t\t\n\t\t", 
+            "updated" : "1477453453732", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476509648925" : {
+            "created" : "1476509648925", 
+            "content" : "Mongodb API\n\tinsert\n\tfind\n\tindex\n\tdriver\n\t\tpython\n\t\tjavascript\n\t\truby\n\t\tc++\n\t\n\t", 
+            "updated" : "1476513578979", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476511665834" : {
+            "created" : "1476511665834", 
+            "content" : "Unix Install\n\tapt-get install\n\t\tapt list\n\t\t\tlist all the package in apt server\n\t\tapt search\t\n\t\t\tsearch package\n\t\tapt-get install\n\t\t\tinstall package\n\t\tapt-get upgrade\n\t\t\twill list package can be upgraded\n\t", 
+            "updated" : "1476512699262", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476763460347" : {
+            "created" : "1476763460347", 
+            "content" : "Js Data Type\n\tJson\n\t\tJson to string: JSON.Parse\n\t\tJson is the obj\n\tstring\n\t\tstring to Json: JSON.stringify()\n\tobj\n\t\tobj print: \n\t\t\twithout stringify: only print object\n\t\t\twith stringify: print the content", 
+            "updated" : "1476773262512", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1476874650278" : {
+            "created" : "1476874650278", 
+            "content" : "Express+Mongodb框架下开发模块顺序\n\t数据结构\n\t\tjson,obj,string,array的转换\n\t\tjs data api\n\t\thtml data api\n\t\tmongodb data api\n\tmongodb data api:js driver\n\t\t查找\n\t\t\tfunction:db.find()\n\t\t\tin:string ,search keyword\n\t\t\tout: array,result list\n\t\t插入\n\t\t\tfunction.db.insert()\n\t\t\tin:obj\n\t\t\tout:string,succesful or fail\n\t\t更改\n\t\t\tfunction:db.update()\n\t\t\tin:obj\n\t\t\tout:string,successful or fail\n\thtml api\n\t\t界面的元素\n\t\t\t<input></>\n\t\t\t\tstring: search keyword,insert obj\n\t\t\t\tdocument.element.innerText\n\t\t\t<button></>\n\t\t\t\tevent:post,get,redirect\n\t\t\t\taction:click\n\t\t\t<list></> \n\t\t\t\tarray: result list\n\t\t\t<img></>\n\t\t\t\tref: img address,obj.ref\n\tjs data api\n\t\tmongdb->html:read\n\t\t\txhr->res.render()\n\t\t\tajax.get->xhr->res.send()\n\t\thtml->mongodb:write\n\t\t\tajax.post->xhr->mongdb\n\t\t\n\t\t\n\t\t", 
+            "updated" : "1476931758603", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1477037051963" : {
+            "created" : "1477037051963", 
+            "content" : "安全方案\n\t二次验证\n\t\t微信\n\t\t\ticloud邮箱\n\t\t\t新手机设备登陆短信验证\n\t\tqq\n\t\t\tqq安全中心\n\t\t网易邮箱\n\t\tgoogle\n\t\t百度\n\t\t360\t\t\t\n\t\t漏洞：手机不身边？\n\tfacebook账户异常状态\n\t备份的方案\n\t\tipassword备份方案\n\t\t\tipassword数据格式\n\t\t图片\n\t\t\t360\n\t丢失紧急处理\n\t\t必要条件\n\t\t\t网络\n\t\t\t手机\n\t\t\t解决方案\n\t\t\t\t附近银行\n\t\t\t\t他人的手机\n\t\t手机sim卡安全\n\t\t\t10000号挂失\n\t\ticloud远程lock，erase\n\t\t\t紧急联系人电话\n\t\t\ticloud网络\n\t丢失后\n\t\t数据恢复\n\t\t\t短信\n\t\t\t微信\n\t\t\t图片\n\t\t补办卡\n\t\t\t异地办卡？\n\t\t\t\t3g不可异地办卡（安全）\n\t\t\t\t\t异地办卡有漏洞\n\t\t\t\t4g可异地办卡\n\t各银行密码重设\n\t\t招商银行\n\t\t\t查询密码\n\t\t\t\t网上重设\n\t\t\t交易密码\n\t\t\t\t交易密码设置以及修改\n\t银行卡冻结流程\n\t\t招商银行\n\t\t\t400-820-5555 #2\n\t\t工商银行\n\t\t建设银行\n\t交易短信提醒\n\t\t招商银行\n\t\t\t300元的门槛\n\t\t\t信用卡柜台业务\n\t\t建设银行\n\t证券系统安全评估\n\t\t密码重置\n\t\t\t身份证\n\t\t\t视频\n\t\t资金渠道\n\t\t\t转入\n\t\t\t\t保证金的消费业务\n\t\t\t\t三方托管\n\t\t\t转出\n\t\t\t\t三方托管\n\t\t\t\t\t更改账户\n\t\t\t\t\t\t全部转出当前余额\n\t\t\t\t\t\t更改账户\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\n\t\n\t\n\n\n\t", 
+            "updated" : "1477647711556", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1477198943701" : {
+            "created" : "1477198943701", 
+            "content" : "Github项目总结\n\t", 
+            "updated" : "1477198952496", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1477198954941" : {
+            "created" : "1477198954941", 
+            "content" : "微博信息总结\n\t", 
+            "updated" : "1477198963349", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1477283539764" : {
+            "created" : "1477283539764", 
+            "content" : "版权的维护产品\n\t密码产品相关\n\t\n\t", 
+            "updated" : "1477283584018", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1477283591358" : {
+            "created" : "1477283591358", 
+            "content" : "Ipassword解决方案\n\twlan结构\n\t\twindows/mac 主机\n\t\tandroid服务端口\n\t有存储功能的内网\n\tkey tech\n\t\tipassword加密文件格式\n\t\twlan sync\n\t\t\twhy bojour?\n\t\t文件export\n\t", 
+            "updated" : "1477283757788", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1477307009284" : {
+            "created" : "1477307009284", 
+            "content" : "Monash ftp\n\trsync ftp.monash.edu::nihongo/edict edict\n\tJMdict\n\tkanjdict", 
+            "updated" : "1477308703819", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1477308549231" : {
+            "created" : "1477308549231", 
+            "content" : "数据服务器\n\t数据传输协议\n\t数据存储设备\n\t数据安全存储设备的产品研究", 
+            "updated" : "1477308550533", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1477453463538" : {
+            "created" : "1477453463538", 
+            "content" : "jmdic entry\n\tseq\n\tk_ele*\n\t\tkeb\n\t\tke_inf*\n\t\tke_pri*\n\tr_ele+\n\t\treb\n\t\tre_nokanji\n\t\tre_restr\n\t\tre_inf\n\t\tre_pri\n\tinfo\n\t\tlinks\n\t\t\tlink_tag\n\t\t\tlink_desc\n\t\t\tlink_uri\n\t\tbibl\n\t\t\tbib_tag\n\t\t\tbib_txt\n\t\tetym\n\t\taudit\n\t\t\tudp_date\n\t\t\tudp_detl\n\tsense\n\t\tstagk\n\t\tstagr\n\t\txref\n\t\tant\n\t\tpos\n\t\tfield\n\t\tmisc\n\t\tlsource\n\t\t\tlsource xml:lan\n\t\tgloss\n\t\ts_inf\n\t\tdial\n\t\texample\n", 
+            "updated" : "1477454219597", 
+            "__proto__" : {
+
+            }
+        }, 
+        "1477454225880" : {
+            "created" : "1477454225880", 
+            "content" : "language\t\n\tInclude 机制\n\t\tpython\n\t\t\tsystem package\n\t\t\t\timport name_syspkg\n\t\t\tuser package\n\t\t\t\tfrom ..utils.observer import Subject\n\t\t\t\t\tpath: ../utils/observer\n\t\t\t\tfrom jmdict.parser.jmdict import Parser\n\t\t\t\t\tpath:jmdict/parser/jmdict\t\t\t \n\t\tjs\n\t\t\tsystem pkg\n\t\t\t\tvar express=require('express')\n\t\t\tuser pkg\n\t\t\t\tvar DailyCommand = require('./../models/mongodb.js').DailyCommand;\n\t\t\texports\n\t\t\t\texports.MindDAO = new MindDAO()\n\t\t\t\texports.DailyCommand = new DailyCommand()\n\t\tc\n\t\tgo\n\t\tlang\n\tstructure\n\t\tpython\n\t\t\tlist\n\t\t\tdict\n\t\t\ttup\n\t", 
+            "updated" : "1477537638686", 
+            "__proto__" : {
+
+            }
+        }, 
+        "__proto__" : {
+
+        }
+    }
+}

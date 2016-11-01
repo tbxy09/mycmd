@@ -16,5 +16,7 @@ esname \"%cd%\" %2
 ) else goto fork
 
 :fork
-es \"%cd%\" %1
+rem esdebug \"%cd%\" %1
+echo 'change'
+esdebug %cd% %1
 :end
